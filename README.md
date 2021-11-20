@@ -1,0 +1,2 @@
+# bot
+for getting vacancies
